@@ -15,20 +15,22 @@
     </div>
   </body>
   <style media="screen">
+
+    .form-container{
+      text-align:center;
+      }
+
+    form{
+    display:inline-block;
+    padding:10%;
+    }
+
     input{
       display:block;
       padding:10px;
       margin-bottom:10px;
       box-shadow: 10px 10px 5px grey;
     }
-    .form-container{
-      text-align:center;
-      }
-    form{
-    display:inline-block;
-    padding:10%;
-    }
-
     .btn{
       width:100%;
       margin-top:10px;
