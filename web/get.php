@@ -1,7 +1,6 @@
 <?php 
     $var = $_GET;
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
